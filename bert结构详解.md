@@ -57,3 +57,4 @@ LayerNorm目的是将word-embeddings约束在半径为1的球内，每次都是�
 [模型参数估计的例子](https://zhuanlan.zhihu.com/p/144582114)
 
 for some test
+xiugai
