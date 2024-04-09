@@ -56,3 +56,4 @@ LayerNorm目的是将word-embeddings约束在半径为1的球内，每次都是�
 
 [模型参数估计的例子](https://zhuanlan.zhihu.com/p/144582114)
 
+ps：加padding是为了batch的训练可以同时进行，因为句子有长有短。
