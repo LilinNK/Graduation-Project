@@ -2,7 +2,7 @@
 ```
 BertModel(
   (embeddings): BertEmbeddings(
-    (word_embeddings): Embedding(30522, 768, padding_idx=0)
+    (word_embeddings): Embedding(30522, 768, padding_idx=0) #注意，embedding都是需要训练的！
     (position_embeddings): Embedding(512, 768)
     (token_type_embeddings): Embedding(2, 768)
     (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
